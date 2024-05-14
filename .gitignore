@@ -1,0 +1,17 @@
+venv_f01
+# venv
+venv
+env
+
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.coverage
+
+# log
+.log
+
+*.log
